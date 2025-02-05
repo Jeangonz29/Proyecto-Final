@@ -1,0 +1,36 @@
+path: se utiliza para trabajar con rutas de archivos y directorios
+ de manera similar a otros lenguajes.
+
+modemon:¡Claro! Nodemon es una herramienta que ayuda a los desarrolladores 
+de Node.jsal reiniciar automáticamente la aplicación cuando detecta cambios en 
+los archivos del directorio. Es especialmente útil durante el desarrollo, ya que 
+elimina la necesidad de reiniciar manualmente el servidor cada vez que se realizan 
+modificaciones en el código.
+
+mongoose:es una biblioteca de JavaScript que facilita la interacción con MongoDB, 
+una base de datos NoSQL. Mongoose proporciona una solución basada en esquemas para
+ modelar los datos de tu aplicación.
+
+
+json-server:json-server es una herramienta muy útil para crear rápidamente una API
+ RESTful utilizando un archivo JSON como base de datos.
+
+
+express:Crear y gestionar rutas: Define rutas para manejar diferentes solicitudes
+ HTTP (GET, POST, PUT, DELETE). Esto te permite crear endpoints para tu API
+
+
+dotenv:dotenv es una biblioteca muy útil para manejar variables de entorno en
+ aplicaciones Node.js.Facilita la carga de variables de entorno desde un archivo
+  .env a process.env, permitiéndote separar la configuración y las credenciales
+   sensibles del código fuente.
+
+
+axios:¡Claro! Axios es una biblioteca de JavaScript que se utiliza para hacer 
+solicitudes HTTP desde el navegador y Node.js.
+
+
+
+all:
+
+
